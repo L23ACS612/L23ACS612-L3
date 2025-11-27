@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 a new file from remote main
 rebase with conflicts ---from FB 
+=======
+a new file from remote main 
+rebase with conflicts -- from remote main
+>>>>>>> origin/main
